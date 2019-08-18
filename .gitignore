@@ -89,6 +89,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+ve-helion/
 
 # Spyder project settings
 .spyderproject
